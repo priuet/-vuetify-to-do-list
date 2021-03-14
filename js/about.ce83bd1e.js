@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["about"],{f820:function(e,t,n){"use strict";n.r(t);var o=function(){var e=this,t=e.$createElement;e._self._c;return e._m(0)},s=[function(){var e=this,t=e.$createElement,n=e._self._c||t;return n("div",{staticClass:"about pa-10"},[n("h1",[e._v("About Vuetify todo")]),n("p",[e._v("There's definetely not enought to-do lists on the web. So, here we are to fix this!")])])}],u=n("2877"),a={},i=Object(u["a"])(a,o,s,!1,null,null,null);t["default"]=i.exports}}]);
+//# sourceMappingURL=about.ce83bd1e.js.map
